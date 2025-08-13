@@ -9,7 +9,7 @@ description = "A Docx document processing service based on the FastMCP library"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "MeterLong", email = ""}
+    {name = "MeterLong", email = "noreply@example.com"}
 ]
 dependencies = [
     "python-docx",
